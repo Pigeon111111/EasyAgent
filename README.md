@@ -14,7 +14,7 @@ A modern AI Agent application built with **FastAPI**, **LangChain**, and **Gradi
 
 - Python 3.10+
 - Conda or virtual environment
-- API keys for LLM providers (OpenAI, Anthropic, or Google)
+- API keys for LLM providers (OpenAI, Anthropic, Google, or **LongCat**)
 
 ## Installation
 
